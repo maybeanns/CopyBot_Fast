@@ -7,7 +7,7 @@ load_dotenv()
 
 def generate_api_credentials():
     host = "https://clob.polymarket.com"
-    private_key = '0xadb29094aeed62269565ed3a1be8e8eb4cbfc93fe727dc609f613d4df2a594a2'  # Your exported private key
+    private_key = ''  # Your exported private key
     chain_id = 137  # Polygon Mainnet
 
     if not private_key:
