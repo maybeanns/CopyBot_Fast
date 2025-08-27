@@ -1,0 +1,8 @@
+web3
+py-clob-client
+pymongo==4.6.0
+python-dotenv==1.0.0
+websocket-client==1.6.4
+requests==2.31.0
+colorlog==6.8.0
+halo==0.0.31
